@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A2682D01-86A5-F0CB-2222-DC4F0617E4B5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/Bartok.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/Bartok.cs" Line="3" Column="1" />
+      <File FileName="Assets/__Scripts/Player.cs" />
+      <File FileName="Assets/__Scripts/BartokLayout.cs" />
+      <File FileName="Assets/__Scripts/RoundResultUI.cs" />
+      <File FileName="Assets/__Scripts/Card.cs" />
+      <File FileName="Assets/__Scripts/CardBartok.cs" />
+      <File FileName="Assets/__Scripts/Deck.cs" />
+      <File FileName="Assets/__Scripts/GameOverUI.cs" />
+      <File FileName="Assets/__Scripts/TurnLight.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdef8224-94bd-41da-9e19-b71cdf060e8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

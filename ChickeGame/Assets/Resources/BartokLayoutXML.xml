@@ -1,0 +1,48 @@
+<xml>
+	<!-- The multiplier is multiplied by the x and y attributes below. -->
+	<!-- This determines how loose or tight the layout is. --> 
+	<multiplier x="1" y="1" />
+
+	<!-- Позиция стопки свободных карт и смещение относительно друг друга -->
+	<slot type="drawpile" x="1.7" y="0" xstagger="0.05" layer="1"/>
+
+	<!-- Позиция стопки сброшенных карт и целевой карты -->
+	<slot type="discardpile" x="-1.7" y="0" layer="2"/>
+
+	<!-- Позиция целевой карты -->
+	<slot type="target" x="-1.7" y="0" layer="4"/>
+
+	<!-- Следующие слоты определяют позиции карт в руках каждого из четырех игроков -->
+	<slot type="hand" x="0" y="-8" rot="0" player="1" layer="3"/>
+	<slot type="hand" x="-10" y="0" rot="270" player="2" layer="3"/>
+	<slot type="hand" x="0" y="8" rot="180" player="3" layer="3"/>
+	<slot type="hand" x="10" y="0" rot="90" player="4" layer="3"/>
+
+	<slot_ type="drawpile" x="1.7" y="0" xstagger="0.05" layer="1"/>
+
+	<!-- Позиция стопки сброшенных карт и целевой карты -->
+	<slot_ type="discardpile" x="-1.7" y="0" layer="2"/>
+
+	<!-- Позиция целевой карты -->
+	<slot_ type="target" x="-1.7" y="0" layer="4"/>
+
+	<!-- Следующие слоты определяют позиции карт в руках каждого из четырех игроков -->
+	<slot_ type="hand" x="0" y="-8" rot="0" player="1" layer="3"/>
+	<slot_ type="hand" x="-9" y="5" rot="240" player="2" layer="3"/>
+	<slot_ type="hand" x="9" y="5" rot="120" player="3" layer="3"/>
+
+	<_slot type="drawpile" x="1.7" y="0" xstagger="0.05" layer="1"/>
+
+	<!-- Позиция стопки сброшенных карт и целевой карты -->
+	<_slot type="discardpile" x="-1.7" y="0" layer="2"/>
+
+	<!-- Позиция целевой карты -->
+	<_slot type="target" x="-1.7" y="0" layer="4"/>
+
+	<!-- Следующие слоты определяют позиции карт в руках каждого из четырех игроков -->
+	<_slot type="hand" x="0" y="-8.4" rot="0" player="1" layer="3"/>
+	<_slot type="hand" x="0" y="8.4" rot="180" player="2" layer="3"/>
+
+</xml>
+
+	
